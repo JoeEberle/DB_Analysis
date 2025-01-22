@@ -66,7 +66,7 @@ These features are designed to provide everything you need for **Db Analysis**
 
     
 ## List of Figures
- ![additional_image](DB_Analysis.png)  <br>
+ ![additional_image](DB_Analysis.png)  <br>![additional_image](postgresql.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
