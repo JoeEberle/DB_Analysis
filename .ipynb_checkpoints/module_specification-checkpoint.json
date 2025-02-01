@@ -1,0 +1,38 @@
+{
+    "module_name": "DB Analysis",
+    "module_description": "Perform database analysis on ANY database to generate the schema, and DDL.",
+    "subtasks": [
+        {
+            "task": "Install and test latest PostgreSQL environment with PGADMIN tool",
+            "description": "Install PostgreSQL."
+        },
+        {
+            "task": "Installation of SQL Drivers",
+            "description": "Install all the necessary drivers to connect to PostgreSQL."
+        },
+        {
+            "task": "Test Python to PostgreSQL database connection",
+            "description": "Test Python to PostgreSQL database connection."
+        },
+        {
+            "task": "Create simulated population health database - test",
+            "description": "Create simulated population health database for testing purposes."
+        },
+        {
+            "task": "PostgreSQL Schema Discovery SQL",
+            "description": "Use SQL to interrogate the database and produce the schema definitions."
+        },
+        {
+            "task": "PostgreSQL DDL Discovery SQL",
+            "description": "Discover and establish 'create table' data description language for PostgreSQL."
+        },
+        {
+            "task": "PostgreSQL Sample SQL Development",
+            "description": "Develop sample SQL queries for PostgreSQL."
+        },
+        {
+            "task": "Query Testing",
+            "description": "Perform query testing to validate the database and SQL."
+        }
+    ]
+}
